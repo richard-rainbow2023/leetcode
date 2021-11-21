@@ -1,4 +1,4 @@
-package letture01
+package leture01
 
 func plusOne(digits []int) []int {
 	for index := len(digits) - 1; index >= 0; index-- {

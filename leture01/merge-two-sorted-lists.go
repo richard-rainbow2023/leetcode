@@ -1,4 +1,4 @@
-package letture01
+package leture01
 
 type ListNode struct {
 	Val  int
